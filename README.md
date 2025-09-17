@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Profile README for 12th House AI -->
+![Banner](https://raw.githubusercontent.com/Obsidian757/BRAND/main/banner.png)
 
-<!--
-**Obsidian757/Obsidian757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to 12th House AI  
 
-Here are some ideas to get you started:
+**Seeing the Unseen: AI Agents for Automation, Compliance, and Growth.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We are an AI-native consulting & agent development studio, building practical and production-ready agents for **SMBs, defense, and enterprise teams**. Our work combines automation, compliance knowledge, and scalable AI systems to create solutions that truly *get things done*.  
+
+---
+
+## 🚀 What We Build
+- **Voice & Lead Agents** — for HVAC & service businesses  
+- **Compliance & IT Ops Agents** — RMF, STIG, and audit automation  
+- **Social Media Agents** — for SMBs and universities  
+- **Custom RAG & MCP Builds** — tailored retrieval and orchestration
+
+---
+
+## 📌 Featured Repos
+- [agents-voice](https://github.com/Obsidian757/agents-voice) – Voice agent (Voiceflow + GPT + Zapier glue)  
+- [agents-lead](https://github.com/Obsidian757/agents-lead) – Lead capture + validation + webhook  
+- [shared](https://github.com/Obsidian757/shared) – Shared prompts and utilities  
+- [agents-rag](https://github.com/Obsidian757/agents-rag) – Future RAG skeleton  
+
+---
+
+## 🎯 Our Approach
+- 🛠️ **Practical** — Fast setup, minimal overhead  
+- 🔒 **Secure** — Compliance and IT ops in mind from day one  
+- 🌱 **Scalable** — Built to grow with your workflows  
+
+---
+
+## 📬 Get in Touch
+✉️ Email: *[add email here]*  
+🌐 Website: *[add website here]*  
+
+---
+
+> ⚡ *12th House AI – Professional AI Agents, Built for the Real World.*
