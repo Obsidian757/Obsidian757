@@ -33,8 +33,8 @@ We are an AI-native consulting & agent development studio, building practical an
 ---
 
 ## 📬 Get in Touch
-✉️ Email: *[add email here]*  
-🌐 Website: *[add website here]*  
+✉️ Email: *[]*  
+🌐 Website: *[]*  
 
 ---
 
